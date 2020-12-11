@@ -1,0 +1,33 @@
+body {
+    background-color: peachpuff;
+}
+
+header {
+    background-color: black;
+    height: 170px;
+    width: auto;
+    text-align: center;
+}
+
+.img2 {
+    height: 400px;
+    width: 400px;
+padding-top: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    padding-bottom: 10px;
+    margin-bottom: 100px;
+    }
+
+    h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+div {
+    text-align: center;
+}
